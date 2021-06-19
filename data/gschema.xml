@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <schemalist>
 	<schema path="/com/github/studentenherz/myapp/" id="com.github.studentenherz.myapp">
-		<key name="pos-x" tipe="i">
+		<key name="pos-x" type="i">
 			<default>360</default>
 			<summary>Horizontal position</summary>
 			<description>The saved horizontal position of the window</description>
 		</key>
 
-		<key name="pos-y" tipe="i">
+		<key name="pos-y" type="i">
 			<default>360</default>
 			<summary>Vertical position</summary>
 			<description>The saved vertical position of the window</description>
 		</key>
 
-		<key name="window-width" tipe="i">
+		<key name="window-width" type="i">
 			<default>640</default>
 			<summary>Window width</summary>
 			<description>The saved width of the window</description>
 		</key>
 
-		<key name="window-height" tipe="i">
+		<key name="window-height" type="i">
 			<default>480</default>
 			<summary>Window height</summary>
 			<description>The saved height of the window</description>
